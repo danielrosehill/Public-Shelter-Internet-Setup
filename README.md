@@ -18,7 +18,7 @@ Both of these notifications share a single point of failure: **internet connecti
 
 Many public shelters are dilapidated and besides lacking connectivity lack power outlets. People sheltering are often left to guess when an official all-clear has been issued by the Home Front Command. Unfortunately people tend to resort to guesstimates and leave shelter prematurely, risking shrapnel.
 
-## The Solution
+## One Possible Solution
 
 A backpack-portable kit that uses an Android phone's cellular connection, shared over a wired ethernet run into the shelter, and rebroadcast as Wi-Fi by a travel router.
 

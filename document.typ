@@ -41,7 +41,7 @@ Many public shelters are dilapidated and besides lacking connectivity lack power
 
 #v(0.5em)
 
-= The Solution
+= One Possible Solution
 
 A backpack-portable kit that uses an Android phone's cellular connection, shared over a wired ethernet run into the shelter, and rebroadcast as Wi-Fi by a travel router.
 
